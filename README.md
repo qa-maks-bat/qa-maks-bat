@@ -17,6 +17,11 @@
 * 📫 How to reach me:
   + My CV and first project: <https://qa-maks-bat.github.io/rsschool-cv/>
   + LinkedIn: <https://www.linkedin.com/in/maksi-batr/>
+  
+  
+### Projects:
+
+  1. Travel Project: <https://travel-project-maksim-batrakou.netlify.app>
 
 <!---
 qa-maks-bat/qa-maks-bat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
