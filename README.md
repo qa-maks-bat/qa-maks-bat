@@ -16,7 +16,7 @@
 
 * 📫 How to reach me:
   + My CV and first project: <https://qa-maks-bat.github.io/rsschool-cv/>
-  + LinkedIn: <https://www.linkedin.com/in/maksi-batr/>
+  + LinkedIn: <https://linkedin.com/in/maksi-batr/>
   
   
 ### Projects:
